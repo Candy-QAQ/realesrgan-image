@@ -1,4 +1,4 @@
-# Image Processing Guide / 图像处理指南
+
 
 ## 🌐 Language / 语言  
 Click to switch between **English** and **中文**.  
