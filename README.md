@@ -1,4 +1,4 @@
-Image Super-Resolution/图片超分辨率
+# Image Super-Resolution/图片超分辨率 
 
 ## 🌐 Language / 语言  
 Click to switch between **English** and **中文**.  
